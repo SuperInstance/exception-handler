@@ -1,9 +1,11 @@
 [package]
 name = "exception-handler"
 version = "0.1.0"
-description = "A Rust library for Exception Handler"
+description = "Exception Handler — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/exception-handler"
+repository = "https://github.com/SuperInstance/exception-handler"
 edition = "2021"
+
+keywords = ["exception-handler"]
 
 [dependencies]
